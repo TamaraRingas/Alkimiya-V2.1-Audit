@@ -1,0 +1,555 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="574pt" height="1141pt" viewBox="0.00 0.00 573.94 1141.00">
+<g id="graph0" class="graph" transform="translate(4,1137) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-1137 569.94,-1137 569.94,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSwapProxy">
+
+<path fill="#445773" stroke="#445773" d="M20,-317C20,-317 545.94,-317 545.94,-317 551.94,-317 557.94,-323 557.94,-329 557.94,-329 557.94,-976 557.94,-976 557.94,-982 551.94,-988 545.94,-988 545.94,-988 20,-988 20,-988 14,-988 8,-982 8,-976 8,-976 8,-329 8,-329 8,-323 14,-317 20,-317" style=""/>
+<text text-anchor="middle" x="282.97" y="-971.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SwapProxy</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterOrderLib">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M374.18,-178C374.18,-178 538.43,-178 538.43,-178 544.43,-178 550.43,-184 550.43,-190 550.43,-190 550.43,-297 550.43,-297 550.43,-303 544.43,-309 538.43,-309 538.43,-309 374.18,-309 374.18,-309 368.18,-309 362.18,-303 362.18,-297 362.18,-297 362.18,-190 362.18,-190 362.18,-184 368.18,-178 374.18,-178" style=""/>
+<text text-anchor="middle" x="456.3" y="-292.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OrderLib</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterECDSA">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M420.32,-93C420.32,-93 492.29,-93 492.29,-93 498.29,-93 504.29,-99 504.29,-105 504.29,-105 504.29,-158 504.29,-158 504.29,-164 498.29,-170 492.29,-170 492.29,-170 420.32,-170 420.32,-170 414.32,-170 408.32,-164 408.32,-158 408.32,-158 408.32,-105 408.32,-105 408.32,-99 414.32,-93 420.32,-93" style=""/>
+<text text-anchor="middle" x="456.3" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ECDSA</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterSafeERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M380.09,-8C380.09,-8 532.52,-8 532.52,-8 538.52,-8 544.52,-14 544.52,-20 544.52,-20 544.52,-73 544.52,-73 544.52,-79 538.52,-85 532.52,-85 532.52,-85 380.09,-85 380.09,-85 374.09,-85 368.09,-79 368.09,-73 368.09,-73 368.09,-20 368.09,-20 368.09,-14 374.09,-8 380.09,-8" style=""/>
+<text text-anchor="middle" x="456.3" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeERC20</text>
+</g>
+<g id="clust5" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="98.33,-996 98.33,-1125 491.3,-1125 491.3,-996 98.33,-996" style=""/>
+<text text-anchor="middle" x="294.82" y="-1108.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SwapProxy.domainSeparator -->
+<g id="node1" class="node" pointer-events="visible" data-name="SwapProxy.domainSeparator">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-937" rx="77.01" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-932.8" font-family="Times,serif" font-size="14.00" style="">domainSeparator</text>
+</g>
+<!-- SwapProxy._domainSeparatorV4 -->
+<g id="node13" class="node" pointer-events="visible" data-name="SwapProxy._domainSeparatorV4">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-937" rx="93.77" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-932.8" font-family="Times,serif" font-size="14.00" style="">_domainSeparatorV4</text>
+</g>
+<!-- SwapProxy.domainSeparator&#45;&gt;SwapProxy._domainSeparatorV4 -->
+<g id="edge1" class="edge" data-name="SwapProxy.domainSeparator-&gt;SwapProxy._domainSeparatorV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M249.66,-937C280.07,-937 315.49,-937 348.29,-937" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="348.16,-940.5 358.16,-937 348.16,-933.5 348.16,-940.5" style=""/>
+</g>
+<!-- SwapProxy.&lt;Constructor&gt; -->
+<g id="node2" class="node" pointer-events="visible" data-name="SwapProxy.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="171.33" cy="-883" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-878.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SwapProxy.setSilicaFactory -->
+<g id="node3" class="node" pointer-events="visible" data-name="SwapProxy.setSilicaFactory">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-829" rx="73.01" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-824.8" font-family="Times,serif" font-size="14.00" style="">setSilicaFactory</text>
+</g>
+<!-- SwapProxy.ISilicaFactory -->
+<g id="node14" class="node" pointer-events="visible" data-name="SwapProxy.ISilicaFactory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-775" rx="65.99" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-770.8" font-family="Times,serif" font-size="14.00" style="">ISilicaFactory</text>
+</g>
+<!-- SwapProxy.setSilicaFactory&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge2" class="edge" data-name="SwapProxy.setSilicaFactory-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M234.38,-818.64C262.58,-813.8 296.35,-807.83 326.67,-802 347.17,-798.06 369.45,-793.48 389.61,-789.23" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="390.17,-792.69 399.23,-787.2 388.72,-785.85 390.17,-792.69" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder -->
+<g id="node4" class="node" pointer-events="visible" data-name="SwapProxy.fillBuyOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-775" rx="60.84" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-770.8" font-family="Times,serif" font-size="14.00" style="">fillBuyOrder</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge6" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.97,-769.41C273.88,-768.04 332.49,-767.88 379.04,-768.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.71,-772.43 388.8,-769.18 378.89,-765.43 378.71,-772.43" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge7" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.97,-780.59C273.88,-781.96 332.49,-782.12 379.04,-781.07" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.89,-784.57 388.8,-780.82 378.71,-777.57 378.89,-784.57" style=""/>
+</g>
+<!-- SwapProxy._hashTypedDataV4 -->
+<g id="node15" class="node" pointer-events="visible" data-name="SwapProxy._hashTypedDataV4">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-451" rx="88.04" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-446.8" font-family="Times,serif" font-size="14.00" style="">_hashTypedDataV4</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy._hashTypedDataV4 -->
+<g id="edge3" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy._hashTypedDataV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M231.05,-780.36C263.69,-779.94 302.48,-773.23 326.67,-748 410.42,-660.62 283.31,-569.81 362.18,-478 365.17,-474.51 368.59,-471.46 372.31,-468.79" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374,-471.85 380.85,-463.77 370.46,-465.82 374,-471.85" style=""/>
+</g>
+<!-- SwapProxy.ISilicaV2_1 -->
+<g id="node16" class="node" pointer-events="visible" data-name="SwapProxy.ISilicaV2_1">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-721" rx="57.91" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-716.8" font-family="Times,serif" font-size="14.00" style="">ISilicaV2_1</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaV2_1 -->
+<g id="edge8" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaV2_1">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.67,-760.73C244.79,-753.91 288.47,-746.35 326.67,-739 345.88,-735.3 366.65,-731.06 385.77,-727.38" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="386.24,-730.85 395.42,-725.56 384.94,-723.97 386.24,-730.85" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaV2_1 -->
+<g id="edge15" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaV2_1">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M233.26,-773.01C261.69,-768.96 295.95,-762.91 326.67,-757 353.45,-751.85 383.26,-745.62 407.44,-739.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="408.17,-742.96 416.95,-737.04 406.39,-736.19 408.17,-742.96" style=""/>
+</g>
+<!-- SwapProxy.address -->
+<g id="node17" class="node" pointer-events="visible" data-name="SwapProxy.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-667" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-662.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.address -->
+<g id="edge9" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M229.15,-767.81C260.19,-764.65 298.02,-757.82 326.67,-739 350.68,-723.23 339.06,-702.05 362.18,-685 374,-676.28 388.58,-670.36 402.68,-666.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="403.38,-670.14 412.42,-664.62 401.91,-663.3 403.38,-670.14" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.address -->
+<g id="edge13" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M226.94,-783.73C258.38,-782.97 297.34,-776.26 326.67,-757 350.68,-741.23 339.06,-720.05 362.18,-703 376.32,-692.57 394.41,-686.15 410.88,-681.6" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="411.33,-685.1 420.14,-679.21 409.58,-678.33 411.33,-685.1" style=""/>
+</g>
+<!-- SwapProxy.BuyOrderFilled -->
+<g id="node18" class="node" pointer-events="visible" data-name="SwapProxy.BuyOrderFilled">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-829" rx="72.38" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-824.8" font-family="Times,serif" font-size="14.00" style="">BuyOrderFilled</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.BuyOrderFilled -->
+<g id="edge10" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.BuyOrderFilled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M233.26,-776.99C261.69,-781.04 295.95,-787.09 326.67,-793 352,-797.87 380.05,-803.71 403.47,-809.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="402.48,-812.84 413.03,-811.92 404.21,-806.06 402.48,-812.84" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.BuyOrderFilled -->
+<g id="edge16" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.BuyOrderFilled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.67,-789.27C244.79,-796.09 288.47,-803.65 326.67,-811 342.05,-813.96 358.43,-817.27 374.17,-820.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="373.17,-823.74 383.66,-822.21 374.51,-816.86 373.17,-823.74" style=""/>
+</g>
+<!-- SwapProxy.IERC20 -->
+<g id="node19" class="node" pointer-events="visible" data-name="SwapProxy.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-613" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-608.8" font-family="Times,serif" font-size="14.00" style="">IERC20</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge12" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M232.01,-770.55C263.55,-768.2 300.95,-761.25 326.67,-739 364.88,-705.94 325.82,-666.09 362.18,-631 372.65,-620.89 386.69,-614.52 400.67,-610.88" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="401.35,-614.32 410.44,-608.88 399.94,-607.46 401.35,-614.32" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge14" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M222.02,-786.31C255.34,-787.53 298.18,-781.65 326.67,-757 364.88,-723.94 325.82,-684.09 362.18,-649 374.12,-637.47 390.69,-630.82 406.54,-626.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="407.17,-629.93 416.06,-624.16 405.51,-623.13 407.17,-629.93" style=""/>
+</g>
+<!-- SwapProxy.ISilicaVault -->
+<g id="node20" class="node" pointer-events="visible" data-name="SwapProxy.ISilicaVault">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-883" rx="57.9" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-878.8" font-family="Times,serif" font-size="14.00" style="">ISilicaVault</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaVault -->
+<g id="edge17" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaVault">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M226.94,-766.27C258.38,-767.03 297.34,-773.74 326.67,-793 350.68,-808.77 339.06,-829.95 362.18,-847 373.79,-855.57 388.07,-861.43 401.93,-865.77" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="400.97,-869.13 411.55,-868.53 402.9,-862.4 400.97,-869.13" style=""/>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SwapProxy.ISilicaVault -->
+<g id="edge18" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SwapProxy.ISilicaVault">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M229.15,-782.19C260.19,-785.35 298.02,-792.18 326.67,-811 350.68,-826.77 339.06,-847.95 362.18,-865 369.09,-870.1 376.95,-874.25 385.11,-877.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="383.74,-880.76 394.34,-880.76 386.05,-874.16 383.74,-880.76" style=""/>
+</g>
+<!-- OrderLib._getBuyOrderHash -->
+<g id="node25" class="node" pointer-events="visible" data-name="OrderLib._getBuyOrderHash">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-258" rx="86.26" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-253.8" font-family="Times,serif" font-size="14.00" style="">_getBuyOrderHash</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;OrderLib._getBuyOrderHash -->
+<g id="edge4" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;OrderLib._getBuyOrderHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M230.76,-780.8C263.71,-780.63 302.93,-774.02 326.67,-748 392.03,-676.35 310.71,-395.21 362.18,-313 370.75,-299.31 384.07,-288.61 397.98,-280.44" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="399.37,-283.67 406.52,-275.85 396.06,-277.5 399.37,-283.67" style=""/>
+</g>
+<!-- ECDSA.recover -->
+<g id="node27" class="node" pointer-events="visible" data-name="ECDSA.recover">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-119" rx="39.97" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-114.8" font-family="Times,serif" font-size="14.00" style="">recover</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;ECDSA.recover -->
+<g id="edge5" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M230.56,-780.97C263.66,-780.91 303.1,-774.36 326.67,-748 411.86,-652.74 295.42,-282.98 362.18,-174 373.06,-156.22 392.03,-143.52 410.01,-134.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.4,-138.05 419.12,-130.8 408.56,-131.65 411.4,-138.05" style=""/>
+</g>
+<!-- SafeERC20.safeTransferFrom -->
+<g id="node28" class="node" pointer-events="visible" data-name="SafeERC20.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-34" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-29.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- SwapProxy.fillBuyOrder&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge11" class="edge" data-name="SwapProxy.fillBuyOrder-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M230.26,-781.04C263.46,-781.05 303.11,-774.55 326.67,-748 375.33,-693.15 324.12,-151.68 362.18,-89 370.71,-74.94 384.3,-64.06 398.5,-55.84" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="400.04,-58.98 407.25,-51.21 396.77,-52.79 400.04,-58.98" style=""/>
+</g>
+<!-- SwapProxy.routeBuy -->
+<g id="node5" class="node" pointer-events="visible" data-name="SwapProxy.routeBuy">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-721" rx="46.95" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-716.8" font-family="Times,serif" font-size="14.00" style="">routeBuy</text>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge23" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.69,-721.15C250.27,-725.04 290.88,-732.11 326.67,-739 352.69,-744.01 381.57,-750.03 405.37,-755.95" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="404.17,-759.26 414.73,-758.37 405.92,-752.48 404.17,-759.26" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge24" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.33,-733.86C238.66,-741.03 285.8,-749.14 326.67,-757 343.63,-760.26 361.8,-763.95 378.98,-767.31" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.14,-770.71 388.62,-769.16 379.46,-763.83 378.14,-770.71" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy._hashTypedDataV4 -->
+<g id="edge19" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy._hashTypedDataV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M217.86,-725.96C252.46,-727.04 298.73,-722.23 326.67,-694 395.11,-624.85 297.6,-550.77 362.18,-478 365.38,-474.39 369.04,-471.25 373,-468.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374.52,-471.68 381.49,-463.7 371.07,-465.59 374.52,-471.68" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.ISilicaV2_1 -->
+<g id="edge32" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.ISilicaV2_1">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.7,-721C264.66,-721 332.83,-721 384.3,-721" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="383.97,-724.5 393.97,-721 383.97,-717.5 383.97,-724.5" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.address -->
+<g id="edge22" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M207.33,-708.14C238.66,-700.97 285.8,-692.86 326.67,-685 351.6,-680.2 379.17,-674.47 402.36,-670.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="402.87,-673.73 412.12,-668.57 401.67,-666.84 402.87,-673.73" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.address -->
+<g id="edge30" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M219.69,-720.85C250.27,-716.96 290.88,-709.89 326.67,-703 355.96,-697.37 388.88,-690.45 414.08,-683.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.87,-687.24 423.58,-681.2 413.01,-680.49 414.87,-687.24" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge29" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M217.34,-714.89C250.12,-712.24 294.27,-706.28 326.67,-685 350.68,-669.23 339.06,-648.05 362.18,-631 373.26,-622.82 386.78,-617.11 400.04,-613.42" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="400.69,-616.86 409.64,-611.18 399.1,-610.05 400.69,-616.86" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge31" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M214.61,-729.73C247.63,-730.56 293.36,-724.88 326.67,-703 350.68,-687.23 339.06,-666.05 362.18,-649 375.75,-638.98 392.97,-632.67 408.89,-628.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="409.59,-631.6 418.37,-625.66 407.81,-624.83 409.59,-631.6" style=""/>
+</g>
+<!-- SwapProxy.SellOrderFilled -->
+<g id="node21" class="node" pointer-events="visible" data-name="SwapProxy.SellOrderFilled">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-505" rx="71.23" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-500.8" font-family="Times,serif" font-size="14.00" style="">SellOrderFilled</text>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.SellOrderFilled -->
+<g id="edge25" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.SellOrderFilled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M218.16,-725.57C252.46,-726.33 298.19,-721.29 326.67,-694 379.89,-643 311.81,-585.82 362.18,-532 367.26,-526.57 373.36,-522.2 379.99,-518.71" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="381.03,-522.07 388.76,-514.82 378.2,-515.67 381.03,-522.07" style=""/>
+</g>
+<!-- SwapProxy.SilicaV2_1Storage -->
+<g id="node22" class="node" pointer-events="visible" data-name="SwapProxy.SilicaV2_1Storage">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-559" rx="83.97" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-554.8" font-family="Times,serif" font-size="14.00" style="">SilicaV2_1Storage</text>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.SilicaV2_1Storage -->
+<g id="edge26" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.SilicaV2_1Storage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M218.8,-717.31C252.54,-715.89 297.25,-710.45 326.67,-685 364.88,-651.94 325.82,-612.09 362.18,-577 363.58,-575.65 365.04,-574.36 366.56,-573.14" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="368.38,-576.13 374.77,-567.68 364.5,-570.31 368.38,-576.13" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SwapProxy.SilicaV2_1Storage -->
+<g id="edge27" class="edge" data-name="SwapProxy.routeBuy-&gt;SwapProxy.SilicaV2_1Storage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M211.56,-731.68C245.89,-734.58 295.09,-730.32 326.67,-703 364.88,-669.94 325.82,-630.09 362.18,-595 369.92,-587.52 379.61,-582.09 389.79,-578.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="390.72,-581.4 399.02,-574.81 388.43,-574.79 390.72,-581.4" style=""/>
+</g>
+<!-- OrderLib._getSellOrderHash -->
+<g id="node26" class="node" pointer-events="visible" data-name="OrderLib._getSellOrderHash">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-204" rx="85.11" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-199.8" font-family="Times,serif" font-size="14.00" style="">_getSellOrderHash</text>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;OrderLib._getSellOrderHash -->
+<g id="edge20" class="edge" data-name="SwapProxy.routeBuy-&gt;OrderLib._getSellOrderHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.47,-726.57C252.58,-728.15 299.7,-723.71 326.67,-694 396.03,-617.59 297.08,-311.07 362.18,-231 365.28,-227.18 368.89,-223.89 372.84,-221.04" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="374.54,-224.1 381.41,-216.04 371.01,-218.06 374.54,-224.1" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;ECDSA.recover -->
+<g id="edge21" class="edge" data-name="SwapProxy.routeBuy-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.54,-726.63C252.68,-728.24 299.83,-723.82 326.67,-694 404.16,-607.91 301.36,-272.58 362.18,-174 373.12,-156.26 392.09,-143.56 410.06,-134.87" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.45,-138.08 419.17,-130.83 408.61,-131.68 411.45,-138.08" style=""/>
+</g>
+<!-- SwapProxy.routeBuy&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge28" class="edge" data-name="SwapProxy.routeBuy-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M217.62,-726.7C252.8,-728.35 299.97,-723.95 326.67,-694 416.29,-593.47 292.01,-203.96 362.18,-89 370.74,-74.96 384.35,-64.09 398.54,-55.86" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="400.09,-59.01 407.29,-51.24 396.82,-52.82 400.09,-59.01" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder -->
+<g id="node6" class="node" pointer-events="visible" data-name="SwapProxy.fillSellOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-667" rx="59.69" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-662.8" font-family="Times,serif" font-size="14.00" style="">fillSellOrder</text>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge37" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.85,-658.25C257.47,-658.88 297,-665.51 326.67,-685 350.68,-700.77 339.06,-721.95 362.18,-739 373.06,-747.03 386.28,-752.68 399.3,-756.93" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="398.16,-760.24 408.74,-759.74 400.16,-753.53 398.16,-760.24" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.ISilicaFactory -->
+<g id="edge38" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.ISilicaFactory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.04,-674.08C259.29,-677.19 297.68,-683.96 326.67,-703 350.68,-718.77 339.06,-739.95 362.18,-757 367.16,-760.68 372.64,-763.86 378.37,-766.58" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="377.01,-769.81 387.59,-770.38 379.67,-763.33 377.01,-769.81" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy._hashTypedDataV4 -->
+<g id="edge33" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy._hashTypedDataV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.65,-671.57C262.95,-670.84 301.53,-664.09 326.67,-640 379.89,-589 311.81,-531.82 362.18,-478 365.47,-474.47 369.2,-471.4 373.23,-468.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374.75,-471.87 381.81,-463.97 371.37,-465.75 374.75,-471.87" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.ISilicaV2_1 -->
+<g id="edge46" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.ISilicaV2_1">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.63,-675.87C255.4,-680.94 293.15,-687.55 326.67,-694 348.76,-698.25 372.92,-703.23 394.27,-707.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="393.35,-711.13 403.86,-709.79 394.81,-704.29 393.35,-711.13" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.address -->
+<g id="edge36" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M229.94,-661.44C280.86,-659.79 354.46,-659.86 403.54,-661.64" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="403.23,-665.13 413.36,-662.05 403.52,-658.14 403.23,-665.13" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.address -->
+<g id="edge44" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M229.94,-672.56C280.86,-674.21 354.46,-674.14 403.54,-672.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="403.52,-675.86 413.36,-671.95 403.23,-668.87 403.52,-675.86" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge43" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M213.02,-652.87C244.18,-646.02 288.2,-638.4 326.67,-631 350.55,-626.41 376.84,-620.96 399.4,-616.81" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="399.99,-620.26 409.22,-615.07 398.77,-613.37 399.99,-620.26" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.IERC20 -->
+<g id="edge45" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M232.15,-665.17C260.79,-661.12 295.55,-654.99 326.67,-649 355.48,-643.46 387.8,-636.67 412.84,-630.15" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="413.57,-633.58 422.29,-627.57 411.72,-626.82 413.57,-633.58" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.SellOrderFilled -->
+<g id="edge39" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.SellOrderFilled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M231.26,-670.53C262.96,-669.31 300.75,-662.42 326.67,-640 364.88,-606.94 325.82,-567.09 362.18,-532 367.61,-526.76 373.99,-522.52 380.83,-519.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="382.05,-522.39 389.9,-515.27 379.32,-515.94 382.05,-522.39" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.SilicaV2_1Storage -->
+<g id="edge40" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.SilicaV2_1Storage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M228.04,-659.92C259.29,-656.81 297.68,-650.04 326.67,-631 350.68,-615.23 339.06,-594.05 362.18,-577 363.94,-575.69 365.78,-574.45 367.66,-573.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="369.14,-576.45 376.26,-568.6 365.8,-570.3 369.14,-576.45" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SwapProxy.SilicaV2_1Storage -->
+<g id="edge41" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SwapProxy.SilicaV2_1Storage">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.85,-675.75C257.47,-675.12 297,-668.49 326.67,-649 350.68,-633.23 339.06,-612.05 362.18,-595 371.73,-587.95 383.08,-582.74 394.52,-578.7" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="395.54,-582.04 404,-575.66 393.41,-575.38 395.54,-582.04" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;OrderLib._getSellOrderHash -->
+<g id="edge34" class="edge" data-name="SwapProxy.fillSellOrder-&gt;OrderLib._getSellOrderHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229.56,-672.76C262.74,-672.72 302.59,-666.26 326.67,-640 388.33,-572.76 304.27,-301.5 362.18,-231 365.3,-227.2 368.92,-223.91 372.89,-221.08" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="374.59,-224.14 381.47,-216.09 371.07,-218.08 374.59,-224.14" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;ECDSA.recover -->
+<g id="edge35" class="edge" data-name="SwapProxy.fillSellOrder-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229.66,-672.85C262.87,-672.84 302.73,-666.39 326.67,-640 396.45,-563.08 307.3,-262.17 362.18,-174 373.19,-156.3 392.17,-143.61 410.13,-134.91" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.51,-138.12 419.23,-130.86 408.67,-131.73 411.51,-138.12" style=""/>
+</g>
+<!-- SwapProxy.fillSellOrder&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge42" class="edge" data-name="SwapProxy.fillSellOrder-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229.39,-672.95C262.72,-673.03 302.79,-666.63 326.67,-640 408.58,-548.65 297.95,-193.55 362.18,-89 370.78,-74.99 384.4,-64.12 398.6,-55.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="400.14,-59.04 407.34,-51.27 396.87,-52.85 400.14,-59.04" style=""/>
+</g>
+<!-- SwapProxy.cancelBuyOrder -->
+<g id="node7" class="node" pointer-events="visible" data-name="SwapProxy.cancelBuyOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-613" rx="74.12" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-608.8" font-family="Times,serif" font-size="14.00" style="">cancelBuyOrder</text>
+</g>
+<!-- SwapProxy.cancelBuyOrder&#45;&gt;SwapProxy._hashTypedDataV4 -->
+<g id="edge47" class="edge" data-name="SwapProxy.cancelBuyOrder-&gt;SwapProxy._hashTypedDataV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.95,-615.56C274.08,-612.88 304.66,-605.04 326.67,-586 364.88,-552.94 325.82,-513.09 362.18,-478 365.82,-474.48 369.89,-471.42 374.24,-468.75" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="375.58,-472 382.86,-464.3 372.37,-465.78 375.58,-472" style=""/>
+</g>
+<!-- SwapProxy.BuyOrderCancelled -->
+<g id="node23" class="node" pointer-events="visible" data-name="SwapProxy.BuyOrderCancelled">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-397" rx="88.03" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-392.8" font-family="Times,serif" font-size="14.00" style="">BuyOrderCancelled</text>
+</g>
+<!-- SwapProxy.cancelBuyOrder&#45;&gt;SwapProxy.BuyOrderCancelled -->
+<g id="edge50" class="edge" data-name="SwapProxy.cancelBuyOrder-&gt;SwapProxy.BuyOrderCancelled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.38,-616.81C274.11,-614.45 305.26,-606.51 326.67,-586 379.89,-535 311.81,-477.82 362.18,-424 365.47,-420.47 369.2,-417.4 373.23,-414.72" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="374.75,-417.87 381.81,-409.97 371.37,-411.75 374.75,-417.87" style=""/>
+</g>
+<!-- SwapProxy.cancelBuyOrder&#45;&gt;OrderLib._getBuyOrderHash -->
+<g id="edge48" class="edge" data-name="SwapProxy.cancelBuyOrder-&gt;OrderLib._getBuyOrderHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M244.3,-617.85C273.72,-615.86 305.7,-607.91 326.67,-586 411.27,-497.61 294.78,-415.12 362.18,-313 371.15,-299.4 384.75,-288.7 398.8,-280.49" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="400.26,-283.68 407.42,-275.87 396.95,-277.51 400.26,-283.68" style=""/>
+</g>
+<!-- SwapProxy.cancelBuyOrder&#45;&gt;ECDSA.recover -->
+<g id="edge49" class="edge" data-name="SwapProxy.cancelBuyOrder-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M243.96,-618.33C273.69,-616.51 305.99,-608.56 326.67,-586 388.75,-518.25 313.23,-251.78 362.18,-174 373.28,-156.35 392.27,-143.67 410.22,-134.96" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.59,-138.18 419.3,-130.91 408.74,-131.79 411.59,-138.18" style=""/>
+</g>
+<!-- SwapProxy.cancelSellOrder -->
+<g id="node8" class="node" pointer-events="visible" data-name="SwapProxy.cancelSellOrder">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-559" rx="73.47" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-554.8" font-family="Times,serif" font-size="14.00" style="">cancelSellOrder</text>
+</g>
+<!-- SwapProxy.cancelSellOrder&#45;&gt;SwapProxy._hashTypedDataV4 -->
+<g id="edge51" class="edge" data-name="SwapProxy.cancelSellOrder-&gt;SwapProxy._hashTypedDataV4">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M245.94,-558.17C273.12,-554.9 303.02,-547.53 326.67,-532 350.68,-516.23 339.06,-495.05 362.18,-478 367,-474.44 372.29,-471.35 377.81,-468.66" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="378.81,-472.04 386.63,-464.89 376.06,-465.6 378.81,-472.04" style=""/>
+</g>
+<!-- SwapProxy.SellOrderCancelled -->
+<g id="node24" class="node" pointer-events="visible" data-name="SwapProxy.SellOrderCancelled">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="456.3" cy="-343" rx="87.38" ry="18" style=""/>
+<text text-anchor="middle" x="456.3" y="-338.8" font-family="Times,serif" font-size="14.00" style="">SellOrderCancelled</text>
+</g>
+<!-- SwapProxy.cancelSellOrder&#45;&gt;SwapProxy.SellOrderCancelled -->
+<g id="edge54" class="edge" data-name="SwapProxy.cancelSellOrder-&gt;SwapProxy.SellOrderCancelled">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M244.59,-562.87C273.53,-560.6 305.07,-552.7 326.67,-532 379.89,-481 311.81,-423.82 362.18,-370 365.63,-366.3 369.57,-363.1 373.81,-360.33" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="375.15,-363.59 382.26,-355.74 371.81,-357.44 375.15,-363.59" style=""/>
+</g>
+<!-- SwapProxy.cancelSellOrder&#45;&gt;OrderLib._getSellOrderHash -->
+<g id="edge52" class="edge" data-name="SwapProxy.cancelSellOrder-&gt;OrderLib._getSellOrderHash">
+
+<path fill="none" stroke="white" stroke-width="2" d="M243.63,-564.02C273.29,-562.14 305.64,-554.23 326.67,-532 419.23,-434.13 275.09,-333.77 362.18,-231 365.36,-227.25 369.02,-224 373.02,-221.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="374.73,-224.25 381.67,-216.24 371.25,-218.17 374.73,-224.25" style=""/>
+</g>
+<!-- SwapProxy.cancelSellOrder&#45;&gt;ECDSA.recover -->
+<g id="edge53" class="edge" data-name="SwapProxy.cancelSellOrder-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M243.43,-564.23C273.24,-562.43 305.76,-554.53 326.67,-532 381.06,-473.41 319.16,-241.39 362.18,-174 373.39,-156.43 392.4,-143.75 410.33,-135.03" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="411.69,-138.25 419.39,-130.97 408.84,-131.86 411.69,-138.25" style=""/>
+</g>
+<!-- SwapProxy.isBuyOrderCancelled -->
+<g id="node9" class="node" pointer-events="visible" data-name="SwapProxy.isBuyOrderCancelled">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-505" rx="94.91" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-500.8" font-family="Times,serif" font-size="14.00" style="">isBuyOrderCancelled</text>
+</g>
+<!-- SwapProxy.isSellOrderCancelled -->
+<g id="node10" class="node" pointer-events="visible" data-name="SwapProxy.isSellOrderCancelled">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-451" rx="93.76" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-446.8" font-family="Times,serif" font-size="14.00" style="">isSellOrderCancelled</text>
+</g>
+<!-- SwapProxy.getBudgetConsumedFromOrderHash -->
+<g id="node11" class="node" pointer-events="visible" data-name="SwapProxy.getBudgetConsumedFromOrderHash">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-397" rx="155.17" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-392.8" font-family="Times,serif" font-size="14.00" style="">getBudgetConsumedFromOrderHash</text>
+</g>
+<!-- SwapProxy.getSilicaAddressFromSellOrderHash -->
+<g id="node12" class="node" pointer-events="visible" data-name="SwapProxy.getSilicaAddressFromSellOrderHash">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="171.33" cy="-343" rx="154.58" ry="18" style=""/>
+<text text-anchor="middle" x="171.33" y="-338.8" font-family="Times,serif" font-size="14.00" style="">getSilicaAddressFromSellOrderHash</text>
+</g>
+<!-- key -->
+<g id="node29" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="236.33,-1092 106.33,-1092 106.33,-1004 236.33,-1004 236.33,-1092" style=""/>
+<text text-anchor="start" x="155.97" y="-1073.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="152.08" y="-1053.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="129.54" y="-1033.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="115.94" y="-1013.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node30" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="483.3,-1092 429.3,-1092 429.3,-1004 483.3,-1004 483.3,-1092" style=""/>
+<text text-anchor="start" x="446.3" y="-1073.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="446.3" y="-1053.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="444.3,-1028 444.3,-1048 469.3,-1048 469.3,-1028 444.3,-1028" style=""/>
+<text text-anchor="start" x="446.3" y="-1033.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="446.3,-1010 446.3,-1026 467.3,-1026 467.3,-1010 446.3,-1010" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge55" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M229.33,-1078C319.97,-1078 345.82,-1078 430.39,-1078" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="430.28,-1081.5 440.28,-1078 430.28,-1074.5 430.28,-1081.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge56" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229.33,-1058C319.97,-1058 345.82,-1058 430.39,-1058" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="430.28,-1061.5 440.28,-1058 430.28,-1054.5 430.28,-1061.5" style=""/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,173 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="379pt" height="593pt" viewBox="0.00 0.00 378.61 593.00">
+<g id="graph0" class="graph" transform="translate(4,589) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-589 374.61,-589 374.61,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterOracle">
+
+<path fill="#445773" stroke="#445773" d="M20,-93C20,-93 350.61,-93 350.61,-93 356.61,-93 362.61,-99 362.61,-105 362.61,-105 362.61,-428 362.61,-428 362.61,-434 356.61,-440 350.61,-440 350.61,-440 20,-440 20,-440 14,-440 8,-434 8,-428 8,-428 8,-105 8,-105 8,-99 14,-93 20,-93" style=""/>
+<text text-anchor="middle" x="185.31" y="-423.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Oracle</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterECDSA">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M253.97,-8C253.97,-8 325.94,-8 325.94,-8 331.94,-8 337.94,-14 337.94,-20 337.94,-20 337.94,-73 337.94,-73 337.94,-79 331.94,-85 325.94,-85 325.94,-85 253.97,-85 253.97,-85 247.97,-85 241.97,-79 241.97,-73 241.97,-73 241.97,-20 241.97,-20 241.97,-14 247.97,-8 253.97,-8" style=""/>
+<text text-anchor="middle" x="289.96" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ECDSA</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="29.65,-448 29.65,-577 324.96,-577 324.96,-448 29.65,-448" style=""/>
+<text text-anchor="middle" x="177.3" y="-560.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- Oracle.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="Oracle.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="102.65" cy="-389" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-384.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- Oracle._setupRole -->
+<g id="node7" class="node" pointer-events="visible" data-name="Oracle._setupRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="289.96" cy="-389" rx="54.48" ry="18" style=""/>
+<text text-anchor="middle" x="289.96" y="-384.8" font-family="Times,serif" font-size="14.00" style="">_setupRole</text>
+</g>
+<!-- Oracle.&lt;Constructor&gt;&#45;&gt;Oracle._setupRole -->
+<g id="edge1" class="edge" data-name="Oracle.&lt;Constructor&gt;-&gt;Oracle._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M167.68,-382.54C185.87,-382.16 205.68,-382.15 223.92,-382.52" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="223.77,-386.02 233.85,-382.78 223.95,-379.02 223.77,-386.02" style=""/>
+</g>
+<!-- Oracle.&lt;Constructor&gt;&#45;&gt;Oracle._setupRole -->
+<g id="edge2" class="edge" data-name="Oracle.&lt;Constructor&gt;-&gt;Oracle._setupRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M167.68,-395.46C185.87,-395.84 205.68,-395.85 223.92,-395.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="223.95,-398.98 233.85,-395.22 223.77,-391.98 223.95,-398.98" style=""/>
+</g>
+<!-- Oracle.updateIndex -->
+<g id="node2" class="node" pointer-events="visible" data-name="Oracle.updateIndex">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="102.65" cy="-335" rx="58.53" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-330.8" font-family="Times,serif" font-size="14.00" style="">updateIndex</text>
+</g>
+<!-- Oracle.type -->
+<g id="node8" class="node" pointer-events="visible" data-name="Oracle.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="289.96" cy="-227" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="289.96" y="-222.8" font-family="Times,serif" font-size="14.00" style="">type</text>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.type -->
+<g id="edge3" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M127.42,-317.24C145.8,-310.53 171.1,-303.67 189.3,-290 212.37,-272.68 203.09,-254.4 225.3,-236 233.05,-229.58 242.56,-224.46 251.84,-221.12" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="252.54,-224.56 261.24,-218.52 250.67,-217.82 252.54,-224.56" style=""/>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.type -->
+<g id="edge4" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.4,-325.18C166.62,-321.21 179.08,-315.68 189.3,-308 212.37,-290.68 203.09,-272.4 225.3,-254 232.8,-247.79 241.94,-242.8 250.92,-238.89" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="252.06,-242.2 260.1,-235.3 249.51,-235.68 252.06,-242.2" style=""/>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.type -->
+<g id="edge5" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M159.77,-340.96C170.22,-337.54 180.57,-332.55 189.3,-326 212.37,-308.68 203.09,-290.4 225.3,-272 236.58,-262.65 251.57,-256.08 264.16,-249.82" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="265.5,-253.08 272.65,-245.26 262.18,-246.91 265.5,-253.08" style=""/>
+</g>
+<!-- Oracle.hasRole -->
+<g id="node9" class="node" pointer-events="visible" data-name="Oracle.hasRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="289.96" cy="-281" rx="42.3" ry="18" style=""/>
+<text text-anchor="middle" x="289.96" y="-276.8" font-family="Times,serif" font-size="14.00" style="">hasRole</text>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.hasRole -->
+<g id="edge6" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M138.51,-319.43C165.96,-309.95 204.7,-298.41 235.99,-290.27" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="236.68,-293.7 245.52,-287.86 234.96,-286.92 236.68,-293.7" style=""/>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.hasRole -->
+<g id="edge7" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M155.76,-325.95C184.59,-318.48 219.95,-308.05 246.99,-298.99" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="247.97,-302.35 256.29,-295.79 245.69,-295.73 247.97,-302.35" style=""/>
+</g>
+<!-- Oracle.OracleUpdate -->
+<g id="node10" class="node" pointer-events="visible" data-name="Oracle.OracleUpdate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="289.96" cy="-335" rx="64.81" ry="18" style=""/>
+<text text-anchor="middle" x="289.96" y="-330.8" font-family="Times,serif" font-size="14.00" style="">OracleUpdate</text>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;Oracle.OracleUpdate -->
+<g id="edge9" class="edge" data-name="Oracle.updateIndex-&gt;Oracle.OracleUpdate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M162.54,-335C177.92,-335 194.75,-335 210.96,-335" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="210.76,-338.5 220.76,-335 210.76,-331.5 210.76,-338.5" style=""/>
+</g>
+<!-- ECDSA.recover -->
+<g id="node11" class="node" pointer-events="visible" data-name="ECDSA.recover">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="289.96" cy="-34" rx="39.97" ry="18" style=""/>
+<text text-anchor="middle" x="289.96" y="-29.8" font-family="Times,serif" font-size="14.00" style="">recover</text>
+</g>
+<!-- Oracle.updateIndex&#45;&gt;ECDSA.recover -->
+<g id="edge8" class="edge" data-name="Oracle.updateIndex-&gt;ECDSA.recover">
+
+<path fill="none" stroke="white" stroke-width="2" d="M157.85,-327.63C169.7,-323.6 181.13,-317.43 189.3,-308 253.91,-233.46 177.1,-175.06 225.3,-89 232.28,-76.54 243.21,-65.58 254.06,-56.79" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="256.02,-59.69 261.89,-50.87 251.8,-54.11 256.02,-59.69" style=""/>
+</g>
+<!-- Oracle.get -->
+<g id="node3" class="node" pointer-events="visible" data-name="Oracle.get">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.65" cy="-281" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-276.8" font-family="Times,serif" font-size="14.00" style="">get</text>
+</g>
+<!-- Oracle.getInRange -->
+<g id="node4" class="node" pointer-events="visible" data-name="Oracle.getInRange">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.65" cy="-227" rx="55.6" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-222.8" font-family="Times,serif" font-size="14.00" style="">getInRange</text>
+</g>
+<!-- Oracle.isDayIndexed -->
+<g id="node5" class="node" pointer-events="visible" data-name="Oracle.isDayIndexed">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.65" cy="-173" rx="64.84" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-168.8" font-family="Times,serif" font-size="14.00" style="">isDayIndexed</text>
+</g>
+<!-- Oracle.getLastIndexedDay -->
+<g id="node6" class="node" pointer-events="visible" data-name="Oracle.getLastIndexedDay">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="102.65" cy="-119" rx="86.8" ry="18" style=""/>
+<text text-anchor="middle" x="102.65" y="-114.8" font-family="Times,serif" font-size="14.00" style="">getLastIndexedDay</text>
+</g>
+<!-- key -->
+<g id="node12" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="167.65,-544 37.65,-544 37.65,-456 167.65,-456 167.65,-544" style=""/>
+<text text-anchor="start" x="87.29" y="-525.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="83.4" y="-505.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="60.85" y="-485.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="47.25" y="-465.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node13" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="316.96,-544 262.96,-544 262.96,-456 316.96,-456 316.96,-544" style=""/>
+<text text-anchor="start" x="279.96" y="-525.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="279.96" y="-505.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="277.96,-480 277.96,-500 302.96,-500 302.96,-480 277.96,-480" style=""/>
+<text text-anchor="start" x="279.96" y="-485.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="279.96,-462 279.96,-478 300.96,-478 300.96,-462 279.96,-462" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge10" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M160.65,-530C207.8,-530 222.69,-530 264.17,-530" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="263.93,-533.5 273.93,-530 263.93,-526.5 263.93,-533.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge11" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M160.65,-510C207.8,-510 222.69,-510 264.17,-510" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="263.93,-513.5 273.93,-510 263.93,-506.5 263.93,-513.5" style=""/>
+</g>
+</g>
+</svg>

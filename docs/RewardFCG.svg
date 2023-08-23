@@ -1,0 +1,137 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="485pt" viewBox="0.00 0.00 576.15 485.00">
+<g id="graph0" class="graph" transform="translate(4,481) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-481 572.15,-481 572.15,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterRewardsProxy">
+
+<path fill="#445773" stroke="#445773" d="M20,-93C20,-93 510.63,-93 510.63,-93 516.63,-93 522.63,-99 522.63,-105 522.63,-105 522.63,-320 522.63,-320 522.63,-326 516.63,-332 510.63,-332 510.63,-332 20,-332 20,-332 14,-332 8,-326 8,-320 8,-320 8,-105 8,-105 8,-99 14,-93 20,-93" style=""/>
+<text text-anchor="middle" x="265.31" y="-315.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">RewardsProxy</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterSafeERC20">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M395.72,-8C395.72,-8 548.15,-8 548.15,-8 554.15,-8 560.15,-14 560.15,-20 560.15,-20 560.15,-73 560.15,-73 560.15,-79 554.15,-85 548.15,-85 548.15,-85 395.72,-85 395.72,-85 389.72,-85 383.72,-79 383.72,-73 383.72,-73 383.72,-20 383.72,-20 383.72,-14 389.72,-8 395.72,-8" style=""/>
+<text text-anchor="middle" x="471.94" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SafeERC20</text>
+</g>
+<g id="clust3" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="13.57,-340 13.57,-469 309.43,-469 309.43,-340 13.57,-340" style=""/>
+<text text-anchor="middle" x="161.5" y="-452.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- RewardsProxy.&lt;Constructor&gt; -->
+<g id="node1" class="node" pointer-events="visible" data-name="RewardsProxy.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="86.57" cy="-254" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="86.57" y="-249.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- RewardsProxy.address -->
+<g id="node4" class="node" pointer-events="visible" data-name="RewardsProxy.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="274.43" cy="-227" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="274.43" y="-222.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- RewardsProxy.&lt;Constructor&gt;&#45;&gt;RewardsProxy.address -->
+<g id="edge1" class="edge" data-name="RewardsProxy.&lt;Constructor&gt;-&gt;RewardsProxy.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.17,-245.2C172.1,-241.72 199.3,-237.77 222.23,-234.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="222.43,-237.94 231.83,-233.04 221.43,-231.02 222.43,-237.94" style=""/>
+</g>
+<!-- RewardsProxy.IOracleRegistry -->
+<g id="node5" class="node" pointer-events="visible" data-name="RewardsProxy.IOracleRegistry">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="274.43" cy="-281" rx="72.92" ry="18" style=""/>
+<text text-anchor="middle" x="274.43" y="-276.8" font-family="Times,serif" font-size="14.00" style="">IOracleRegistry</text>
+</g>
+<!-- RewardsProxy.&lt;Constructor&gt;&#45;&gt;RewardsProxy.IOracleRegistry -->
+<g id="edge2" class="edge" data-name="RewardsProxy.&lt;Constructor&gt;-&gt;RewardsProxy.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.17,-262.8C163.63,-265.05 180.46,-267.49 196.62,-269.84" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="196,-273.29 206.4,-271.26 197,-266.36 196,-273.29" style=""/>
+</g>
+<!-- RewardsProxy.streamRewards -->
+<g id="node2" class="node" pointer-events="visible" data-name="RewardsProxy.streamRewards">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="86.57" cy="-146" rx="70.63" ry="18" style=""/>
+<text text-anchor="middle" x="86.57" y="-141.8" font-family="Times,serif" font-size="14.00" style="">streamRewards</text>
+</g>
+<!-- RewardsProxy._streamReward -->
+<g id="node3" class="node" pointer-events="visible" data-name="RewardsProxy._streamReward">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="274.43" cy="-119" rx="71.78" ry="18" style=""/>
+<text text-anchor="middle" x="274.43" y="-114.8" font-family="Times,serif" font-size="14.00" style="">_streamReward</text>
+</g>
+<!-- RewardsProxy.streamRewards&#45;&gt;RewardsProxy._streamReward -->
+<g id="edge3" class="edge" data-name="RewardsProxy.streamRewards-&gt;RewardsProxy._streamReward">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M150.23,-136.9C165.45,-134.69 181.88,-132.3 197.64,-130.01" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="197.7,-133.54 207.09,-128.64 196.69,-126.61 197.7,-133.54" style=""/>
+</g>
+<!-- RewardsProxy.RewardsStreamed -->
+<g id="node6" class="node" pointer-events="visible" data-name="RewardsProxy.RewardsStreamed">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="274.43" cy="-173" rx="81.09" ry="18" style=""/>
+<text text-anchor="middle" x="274.43" y="-168.8" font-family="Times,serif" font-size="14.00" style="">RewardsStreamed</text>
+</g>
+<!-- RewardsProxy.streamRewards&#45;&gt;RewardsProxy.RewardsStreamed -->
+<g id="edge4" class="edge" data-name="RewardsProxy.streamRewards-&gt;RewardsProxy.RewardsStreamed">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M150.23,-155.1C163.46,-157.03 177.62,-159.08 191.44,-161.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="190.61,-164.51 201.01,-162.48 191.62,-157.58 190.61,-164.51" style=""/>
+</g>
+<!-- RewardsProxy.IERC20 -->
+<g id="node7" class="node" pointer-events="visible" data-name="RewardsProxy.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="471.94" cy="-119" rx="42.88" ry="18" style=""/>
+<text text-anchor="middle" x="471.94" y="-114.8" font-family="Times,serif" font-size="14.00" style="">IERC20</text>
+</g>
+<!-- RewardsProxy._streamReward&#45;&gt;RewardsProxy.IERC20 -->
+<g id="edge6" class="edge" data-name="RewardsProxy._streamReward-&gt;RewardsProxy.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M347.67,-119C369.82,-119 393.84,-119 414.75,-119" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.62,-122.5 424.62,-119 414.62,-115.5 414.62,-122.5" style=""/>
+</g>
+<!-- SafeERC20.safeTransferFrom -->
+<g id="node8" class="node" pointer-events="visible" data-name="SafeERC20.safeTransferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="471.94" cy="-34" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="471.94" y="-29.8" font-family="Times,serif" font-size="14.00" style="">safeTransferFrom</text>
+</g>
+<!-- RewardsProxy._streamReward&#45;&gt;SafeERC20.safeTransferFrom -->
+<g id="edge5" class="edge" data-name="RewardsProxy._streamReward-&gt;SafeERC20.safeTransferFrom">
+
+<path fill="none" stroke="white" stroke-width="2" d="M313.13,-102.61C343.56,-89.38 386.69,-70.63 420.16,-56.07" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="421.47,-59.32 429.24,-52.13 418.68,-52.9 421.47,-59.32" style=""/>
+</g>
+<!-- key -->
+<g id="node9" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="151.57,-436 21.57,-436 21.57,-348 151.57,-348 151.57,-436" style=""/>
+<text text-anchor="start" x="71.2" y="-417.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="67.32" y="-397.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="44.77" y="-377.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="31.17" y="-357.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node10" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="301.43,-436 247.43,-436 247.43,-348 301.43,-348 301.43,-436" style=""/>
+<text text-anchor="start" x="264.43" y="-417.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="264.43" y="-397.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="262.43,-372 262.43,-392 287.43,-392 287.43,-372 262.43,-372" style=""/>
+<text text-anchor="start" x="264.43" y="-377.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="264.43,-354 264.43,-370 285.43,-370 285.43,-354 264.43,-354" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge7" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M144.57,-422C191.94,-422 206.91,-422 248.58,-422" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="248.4,-425.5 258.4,-422 248.4,-418.5 248.4,-425.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge8" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M144.57,-402C191.94,-402 206.91,-402 248.58,-402" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="248.4,-405.5 258.4,-402 248.4,-398.5 248.4,-405.5" style=""/>
+</g>
+</g>
+</svg>

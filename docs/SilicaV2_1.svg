@@ -1,0 +1,250 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="493pt" height="786pt" viewBox="0.00 0.00 493.44 786.00">
+<g id="graph0" class="graph" transform="translate(8.756360586950734,716.3099344685631) scale(0.6877709090698733)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-782 489.44,-782 489.44,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSilicaV2_1">
+
+<path fill="#445773" stroke="#445773" d="M20,-286C20,-286 435.92,-286 435.92,-286 441.92,-286 447.92,-292 447.92,-298 447.92,-298 447.92,-621 447.92,-621 447.92,-627 441.92,-633 435.92,-633 435.92,-633 20,-633 20,-633 14,-633 8,-627 8,-621 8,-621 8,-298 8,-298 8,-292 14,-286 20,-286" style=""/>
+<text text-anchor="middle" x="227.96" y="-616.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SilicaV2_1</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIOracle">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M284.57,-93C284.57,-93 449.87,-93 449.87,-93 455.87,-93 461.87,-99 461.87,-105 461.87,-105 461.87,-266 461.87,-266 461.87,-272 455.87,-278 449.87,-278 449.87,-278 284.57,-278 284.57,-278 278.57,-278 272.57,-272 272.57,-266 272.57,-266 272.57,-105 272.57,-105 272.57,-99 278.57,-93 284.57,-93" style=""/>
+<text text-anchor="middle" x="367.22" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IOracle</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterRewardMath">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M269,-8C269,-8 465.44,-8 465.44,-8 471.44,-8 477.44,-14 477.44,-20 477.44,-20 477.44,-73 477.44,-73 477.44,-79 471.44,-85 465.44,-85 465.44,-85 269,-85 269,-85 263,-85 257,-79 257,-73 257,-73 257,-20 257,-20 257,-14 263,-8 269,-8" style=""/>
+<text text-anchor="middle" x="367.22" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">RewardMath</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="49.5,-641 49.5,-770 402.22,-770 402.22,-641 49.5,-641" style=""/>
+<text text-anchor="middle" x="225.86" y="-753.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SilicaV2_1.decimals -->
+<g id="node1" class="node" pointer-events="visible" data-name="SilicaV2_1.decimals">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-312" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-307.8" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- SilicaV2_1.&lt;Constructor&gt; -->
+<g id="node2" class="node" pointer-events="visible" data-name="SilicaV2_1.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="122.5" cy="-582" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-577.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SilicaV2_1._getLastIndexedDay -->
+<g id="node3" class="node" pointer-events="visible" data-name="SilicaV2_1._getLastIndexedDay">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-528" rx="91.46" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-523.8" font-family="Times,serif" font-size="14.00" style="">_getLastIndexedDay</text>
+</g>
+<!-- SilicaV2_1.IOracle -->
+<g id="node8" class="node" pointer-events="visible" data-name="SilicaV2_1.IOracle">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-528" rx="39.97" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-523.8" font-family="Times,serif" font-size="14.00" style="">IOracle</text>
+</g>
+<!-- SilicaV2_1._getLastIndexedDay&#45;&gt;SilicaV2_1.IOracle -->
+<g id="edge1" class="edge" data-name="SilicaV2_1._getLastIndexedDay-&gt;SilicaV2_1.IOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M215.26,-528C248.17,-528 284.18,-528 312.77,-528" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="312.73,-531.5 322.73,-528 312.73,-524.5 312.73,-531.5" style=""/>
+</g>
+<!-- SilicaV2_1.IOracleRegistry -->
+<g id="node9" class="node" pointer-events="visible" data-name="SilicaV2_1.IOracleRegistry">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-420" rx="72.92" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-415.8" font-family="Times,serif" font-size="14.00" style="">IOracleRegistry</text>
+</g>
+<!-- SilicaV2_1._getLastIndexedDay&#45;&gt;SilicaV2_1.IOracleRegistry -->
+<g id="edge2" class="edge" data-name="SilicaV2_1._getLastIndexedDay-&gt;SilicaV2_1.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.98,-517.07C209.78,-513.2 220.19,-508 229,-501 250.16,-484.18 235.76,-463.73 257,-447 265.69,-440.15 275.89,-435.01 286.5,-431.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="287.23,-434.6 295.71,-428.24 285.12,-427.92 287.23,-434.6" style=""/>
+</g>
+<!-- SilicaV2_1.address -->
+<g id="node10" class="node" pointer-events="visible" data-name="SilicaV2_1.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-474" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-469.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- SilicaV2_1._getLastIndexedDay&#45;&gt;SilicaV2_1.address -->
+<g id="edge3" class="edge" data-name="SilicaV2_1._getLastIndexedDay-&gt;SilicaV2_1.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M186.64,-513.95C227.35,-504.9 279.51,-493.29 317.12,-484.92" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="317.81,-488.35 326.81,-482.77 316.29,-481.52 317.81,-488.35" style=""/>
+</g>
+<!-- IOracle.getLastIndexedDay -->
+<g id="node12" class="node" pointer-events="visible" data-name="IOracle.getLastIndexedDay">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-227" rx="86.8" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-222.8" font-family="Times,serif" font-size="14.00" style="">getLastIndexedDay</text>
+</g>
+<!-- SilicaV2_1._getLastIndexedDay&#45;&gt;IOracle.getLastIndexedDay -->
+<g id="edge4" class="edge" data-name="SilicaV2_1._getLastIndexedDay-&gt;IOracle.getLastIndexedDay">
+
+<path fill="none" stroke="white" stroke-width="2" d="M203.75,-518.61C213.31,-514.48 222.11,-508.79 229,-501 293.97,-427.47 200.32,-362.1 257,-282 267.76,-266.79 283.97,-255.55 300.64,-247.34" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.75,-250.67 309.43,-243.37 298.88,-244.29 301.75,-250.67" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay -->
+<g id="node4" class="node" pointer-events="visible" data-name="SilicaV2_1._getRewardDueOnDay">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-474" rx="101.85" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-469.8" font-family="Times,serif" font-size="14.00" style="">_getRewardDueOnDay</text>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;SilicaV2_1.IOracle -->
+<g id="edge5" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;SilicaV2_1.IOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M189.82,-488.76C230.13,-497.72 280.7,-508.98 317.36,-517.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="316.22,-520.46 326.74,-519.22 317.74,-513.63 316.22,-520.46" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;SilicaV2_1.IOracleRegistry -->
+<g id="edge6" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;SilicaV2_1.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M189.82,-459.24C223.3,-451.8 263.87,-442.77 297.66,-435.25" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="298.29,-438.7 307.29,-433.11 296.77,-431.86 298.29,-438.7" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;SilicaV2_1.address -->
+<g id="edge7" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;SilicaV2_1.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M225.73,-474C255.74,-474 287.35,-474 312.97,-474" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="312.75,-477.5 322.75,-474 312.75,-470.5 312.75,-477.5" style=""/>
+</g>
+<!-- SilicaV2_1.totalSupply -->
+<g id="node11" class="node" pointer-events="visible" data-name="SilicaV2_1.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-366" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-361.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;SilicaV2_1.totalSupply -->
+<g id="edge10" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;SilicaV2_1.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M202.5,-461.75C212.03,-458.04 221.15,-453.23 229,-447 250.16,-430.18 235.76,-409.73 257,-393 269.1,-383.46 284.12,-377.24 299.11,-373.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="299.73,-376.64 308.68,-370.97 298.14,-369.82 299.73,-376.64" style=""/>
+</g>
+<!-- IOracle.get -->
+<g id="node13" class="node" pointer-events="visible" data-name="IOracle.get">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-173" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-168.8" font-family="Times,serif" font-size="14.00" style="">get</text>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;IOracle.get -->
+<g id="edge8" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;IOracle.get">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.46,-463.04C215.6,-459.07 223.04,-453.84 229,-447 301.56,-363.69 184.09,-283.01 257,-200 273.99,-180.65 302.45,-174.07 326.06,-172.24" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="326.07,-175.74 335.9,-171.79 325.75,-168.75 326.07,-175.74" style=""/>
+</g>
+<!-- RewardMath._getMiningRewardDue -->
+<g id="node15" class="node" pointer-events="visible" data-name="RewardMath._getMiningRewardDue">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-34" rx="102.44" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-29.8" font-family="Times,serif" font-size="14.00" style="">_getMiningRewardDue</text>
+</g>
+<!-- SilicaV2_1._getRewardDueOnDay&#45;&gt;RewardMath._getMiningRewardDue -->
+<g id="edge9" class="edge" data-name="SilicaV2_1._getRewardDueOnDay-&gt;RewardMath._getMiningRewardDue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.95,-463.12C215.95,-459.13 223.22,-453.87 229,-447 280.35,-385.92 212.52,-155.26 257,-89 266.8,-74.39 281.71,-63.48 297.38,-55.39" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="298.57,-58.7 306.13,-51.29 295.59,-52.37 298.57,-58.7" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange -->
+<g id="node5" class="node" pointer-events="visible" data-name="SilicaV2_1._getRewardDueInRange">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-420" rx="106.5" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_getRewardDueInRange</text>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;SilicaV2_1.IOracle -->
+<g id="edge11" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;SilicaV2_1.IOracle">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M203.85,-432.78C212.89,-436.41 221.52,-441.06 229,-447 250.16,-463.82 235.76,-484.27 257,-501 272.97,-513.58 294.01,-520.4 313.35,-524.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="312.66,-527.49 323.08,-525.6 313.75,-520.57 312.66,-527.49" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;SilicaV2_1.IOracleRegistry -->
+<g id="edge12" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;SilicaV2_1.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M230.31,-420C246.97,-420 264,-420 280.12,-420" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="279.8,-423.5 289.8,-420 279.8,-416.5 279.8,-423.5" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;SilicaV2_1.address -->
+<g id="edge13" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;SilicaV2_1.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M191.11,-435.04C231.09,-443.94 280.81,-455 317.05,-463.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="316.27,-466.47 326.79,-465.23 317.79,-459.64 316.27,-466.47" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;SilicaV2_1.totalSupply -->
+<g id="edge15" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;SilicaV2_1.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M191.11,-404.96C227.46,-396.87 271.88,-386.99 306.88,-379.2" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="307.37,-382.68 316.37,-377.09 305.85,-375.85 307.37,-382.68" style=""/>
+</g>
+<!-- IOracle.getInRange -->
+<g id="node14" class="node" pointer-events="visible" data-name="IOracle.getInRange">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="367.22" cy="-119" rx="55.6" ry="18" style=""/>
+<text text-anchor="middle" x="367.22" y="-114.8" font-family="Times,serif" font-size="14.00" style="">getInRange</text>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;IOracle.getInRange -->
+<g id="edge14" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;IOracle.getInRange">
+
+<path fill="none" stroke="white" stroke-width="2" d="M208.72,-408.41C216.37,-404.52 223.35,-399.49 229,-393 301.56,-309.69 184.09,-229.01 257,-146 267.52,-134.01 282.45,-126.93 297.89,-122.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="298.32,-126.32 307.36,-120.8 296.85,-119.48 298.32,-126.32" style=""/>
+</g>
+<!-- SilicaV2_1._getRewardDueInRange&#45;&gt;RewardMath._getMiningRewardDue -->
+<g id="edge16" class="edge" data-name="SilicaV2_1._getRewardDueInRange-&gt;RewardMath._getMiningRewardDue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M209.11,-408.4C216.64,-404.51 223.48,-399.47 229,-393 273.01,-341.38 218.8,-145.07 257,-89 266.9,-74.46 281.84,-63.57 297.52,-55.49" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="298.7,-58.8 306.26,-51.38 295.73,-52.46 298.7,-58.8" style=""/>
+</g>
+<!-- SilicaV2_1.getCommodityType -->
+<g id="node6" class="node" pointer-events="visible" data-name="SilicaV2_1.getCommodityType">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="122.5" cy="-366" rx="88.64" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-361.8" font-family="Times,serif" font-size="14.00" style="">getCommodityType</text>
+</g>
+<!-- SilicaV2_1.getDecimals -->
+<g id="node7" class="node" pointer-events="visible" data-name="SilicaV2_1.getDecimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="122.5" cy="-312" rx="59.11" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-307.8" font-family="Times,serif" font-size="14.00" style="">getDecimals</text>
+</g>
+<!-- SilicaV2_1.getDecimals&#45;&gt;SilicaV2_1.decimals -->
+<g id="edge17" class="edge" data-name="SilicaV2_1.getDecimals-&gt;SilicaV2_1.decimals">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M182.87,-312C220.91,-312 270.06,-312 307.89,-312" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="307.74,-315.5 317.74,-312 307.74,-308.5 307.74,-315.5" style=""/>
+</g>
+<!-- key -->
+<g id="node16" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="187.5,-737 57.5,-737 57.5,-649 187.5,-649 187.5,-737" style=""/>
+<text text-anchor="start" x="107.14" y="-718.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="103.25" y="-698.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="80.7" y="-678.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="67.1" y="-658.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node17" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="394.22,-737 340.22,-737 340.22,-649 394.22,-649 394.22,-737" style=""/>
+<text text-anchor="start" x="357.22" y="-718.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="357.22" y="-698.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="355.22,-673 355.22,-693 380.22,-693 380.22,-673 355.22,-673" style=""/>
+<text text-anchor="start" x="357.22" y="-678.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="357.22,-655 357.22,-671 378.22,-671 378.22,-655 357.22,-655" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge18" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M180.5,-723C253.18,-723 274.55,-723 341.22,-723" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="341.19,-726.5 351.19,-723 341.19,-719.5 341.19,-726.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge19" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M180.5,-703C253.18,-703 274.55,-703 341.22,-703" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="341.19,-706.5 351.19,-703 341.19,-699.5 341.19,-706.5" style=""/>
+</g>
+</g>
+</svg>

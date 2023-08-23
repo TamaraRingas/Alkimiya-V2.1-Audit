@@ -1,0 +1,262 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="522pt" height="786pt" viewBox="0.00 0.00 522.40 786.00">
+<g id="graph0" class="graph" transform="translate(4,782) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-782 518.4,-782 518.4,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterSilicaEthStaking">
+
+<path fill="#445773" stroke="#445773" d="M20,-286C20,-286 460.6,-286 460.6,-286 466.6,-286 472.6,-292 472.6,-298 472.6,-298 472.6,-621 472.6,-621 472.6,-627 466.6,-633 460.6,-633 460.6,-633 20,-633 20,-633 14,-633 8,-627 8,-621 8,-621 8,-298 8,-298 8,-292 14,-286 20,-286" style=""/>
+<text text-anchor="middle" x="240.3" y="-616.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SilicaEthStaking</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterIOracleEthStaking">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M299.05,-93C299.05,-93 464.35,-93 464.35,-93 470.35,-93 476.35,-99 476.35,-105 476.35,-105 476.35,-266 476.35,-266 476.35,-272 470.35,-278 464.35,-278 464.35,-278 299.05,-278 299.05,-278 293.05,-278 287.05,-272 287.05,-266 287.05,-266 287.05,-105 287.05,-105 287.05,-99 293.05,-93 299.05,-93" style=""/>
+<text text-anchor="middle" x="381.7" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IOracleEthStaking</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterRewardMath">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M269,-8C269,-8 494.4,-8 494.4,-8 500.4,-8 506.4,-14 506.4,-20 506.4,-20 506.4,-73 506.4,-73 506.4,-79 500.4,-85 494.4,-85 494.4,-85 269,-85 269,-85 263,-85 257,-79 257,-73 257,-73 257,-20 257,-20 257,-14 263,-8 269,-8" style=""/>
+<text text-anchor="middle" x="381.7" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">RewardMath</text>
+</g>
+<g id="clust4" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="49.5,-641 49.5,-770 416.7,-770 416.7,-641 49.5,-641" style=""/>
+<text text-anchor="middle" x="233.1" y="-753.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- SilicaEthStaking.decimals -->
+<g id="node1" class="node" pointer-events="visible" data-name="SilicaEthStaking.decimals">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-339" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-334.8" font-family="Times,serif" font-size="14.00" style="">decimals</text>
+</g>
+<!-- SilicaEthStaking.&lt;Constructor&gt; -->
+<g id="node2" class="node" pointer-events="visible" data-name="SilicaEthStaking.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="122.5" cy="-582" rx="67.55" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-577.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SilicaEthStaking._getLastIndexedDay -->
+<g id="node3" class="node" pointer-events="visible" data-name="SilicaEthStaking._getLastIndexedDay">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-528" rx="91.46" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-523.8" font-family="Times,serif" font-size="14.00" style="">_getLastIndexedDay</text>
+</g>
+<!-- SilicaEthStaking.IOracleEthStaking -->
+<g id="node8" class="node" pointer-events="visible" data-name="SilicaEthStaking.IOracleEthStaking">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-555" rx="82.81" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-550.8" font-family="Times,serif" font-size="14.00" style="">IOracleEthStaking</text>
+</g>
+<!-- SilicaEthStaking._getLastIndexedDay&#45;&gt;SilicaEthStaking.IOracleEthStaking -->
+<g id="edge1" class="edge" data-name="SilicaEthStaking._getLastIndexedDay-&gt;SilicaEthStaking.IOracleEthStaking">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.58,-536.62C233.25,-539.52 264.23,-542.77 292.36,-545.73" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="291.74,-549.18 302.05,-546.74 292.47,-542.22 291.74,-549.18" style=""/>
+</g>
+<!-- SilicaEthStaking.IOracleRegistry -->
+<g id="node9" class="node" pointer-events="visible" data-name="SilicaEthStaking.IOracleRegistry">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-447" rx="72.92" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-442.8" font-family="Times,serif" font-size="14.00" style="">IOracleRegistry</text>
+</g>
+<!-- SilicaEthStaking._getLastIndexedDay&#45;&gt;SilicaEthStaking.IOracleRegistry -->
+<g id="edge2" class="edge" data-name="SilicaEthStaking._getLastIndexedDay-&gt;SilicaEthStaking.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M193.57,-515.5C205.81,-511.82 218.1,-507.08 229,-501 244.09,-492.58 241.75,-482.15 257,-474 270.47,-466.79 285.76,-461.51 300.87,-457.63" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="301.58,-461.06 310.53,-455.39 300,-454.24 301.58,-461.06" style=""/>
+</g>
+<!-- SilicaEthStaking.address -->
+<g id="node10" class="node" pointer-events="visible" data-name="SilicaEthStaking.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-501" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-496.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- SilicaEthStaking._getLastIndexedDay&#45;&gt;SilicaEthStaking.address -->
+<g id="edge3" class="edge" data-name="SilicaEthStaking._getLastIndexedDay-&gt;SilicaEthStaking.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M205.58,-519.38C245.87,-515.15 293.18,-510.19 328.47,-506.48" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="328.78,-509.97 338.36,-505.44 328.05,-503.01 328.78,-509.97" style=""/>
+</g>
+<!-- IOracleEthStaking.getLastIndexedDay -->
+<g id="node12" class="node" pointer-events="visible" data-name="IOracleEthStaking.getLastIndexedDay">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-227" rx="86.8" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-222.8" font-family="Times,serif" font-size="14.00" style="">getLastIndexedDay</text>
+</g>
+<!-- SilicaEthStaking._getLastIndexedDay&#45;&gt;IOracleEthStaking.getLastIndexedDay -->
+<g id="edge4" class="edge" data-name="SilicaEthStaking._getLastIndexedDay-&gt;IOracleEthStaking.getLastIndexedDay">
+
+<path fill="none" stroke="white" stroke-width="2" d="M203.75,-518.61C213.31,-514.48 222.11,-508.79 229,-501 293.97,-427.47 198.41,-360.72 257,-282 269.43,-265.29 288.08,-253.56 307.14,-245.36" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="308.17,-248.72 316.2,-241.81 305.62,-242.2 308.17,-248.72" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay -->
+<g id="node4" class="node" pointer-events="visible" data-name="SilicaEthStaking._getRewardDueOnDay">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-474" rx="101.85" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-469.8" font-family="Times,serif" font-size="14.00" style="">_getRewardDueOnDay</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;SilicaEthStaking.decimals -->
+<g id="edge11" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;SilicaEthStaking.decimals">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M204.72,-462.24C213.62,-458.43 221.97,-453.47 229,-447 257.01,-421.2 228.52,-391.3 257,-366 274.8,-350.18 299.69,-342.92 322.48,-339.8" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="322.64,-343.3 332.21,-338.76 321.9,-336.34 322.64,-343.3" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;SilicaEthStaking.IOracleEthStaking -->
+<g id="edge5" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;SilicaEthStaking.IOracleEthStaking">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M196.91,-487.53C208.03,-491.05 219.09,-495.47 229,-501 244.09,-509.42 241.75,-519.85 257,-528 268.67,-534.24 281.71,-539.05 294.81,-542.74" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="293.86,-546.11 304.42,-545.2 295.6,-539.33 293.86,-546.11" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;SilicaEthStaking.IOracleRegistry -->
+<g id="edge6" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;SilicaEthStaking.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M212.73,-464.63C241.04,-461.66 272.16,-458.39 299.85,-455.49" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="300.12,-458.98 309.7,-454.45 299.39,-452.02 300.12,-458.98" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;SilicaEthStaking.address -->
+<g id="edge7" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;SilicaEthStaking.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M212.73,-483.37C251.41,-487.43 295.35,-492.04 328.59,-495.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="327.9,-498.98 338.21,-496.54 328.63,-492.01 327.9,-498.98" style=""/>
+</g>
+<!-- SilicaEthStaking.totalSupply -->
+<g id="node11" class="node" pointer-events="visible" data-name="SilicaEthStaking.totalSupply">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-393" rx="55.64" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-388.8" font-family="Times,serif" font-size="14.00" style="">totalSupply</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;SilicaEthStaking.totalSupply -->
+<g id="edge10" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;SilicaEthStaking.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M196.91,-460.47C208.03,-456.95 219.09,-452.53 229,-447 244.09,-438.58 241.75,-428.15 257,-420 274.4,-410.69 294.82,-404.59 313.99,-400.59" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="314.54,-404.05 323.72,-398.76 313.24,-397.17 314.54,-404.05" style=""/>
+</g>
+<!-- IOracleEthStaking.get -->
+<g id="node13" class="node" pointer-events="visible" data-name="IOracleEthStaking.get">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-173" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-168.8" font-family="Times,serif" font-size="14.00" style="">get</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;IOracleEthStaking.get -->
+<g id="edge8" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;IOracleEthStaking.get">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.46,-463.04C215.6,-459.07 223.04,-453.84 229,-447 301.56,-363.69 182.96,-282 257,-200 277.76,-177.01 313.15,-171.15 340.77,-170.52" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="340.57,-174.02 350.59,-170.57 340.6,-167.02 340.57,-174.02" style=""/>
+</g>
+<!-- RewardMath._getEthStakingRewardDue -->
+<g id="node15" class="node" pointer-events="visible" data-name="RewardMath._getEthStakingRewardDue">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-34" rx="116.9" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-29.8" font-family="Times,serif" font-size="14.00" style="">_getEthStakingRewardDue</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueOnDay&#45;&gt;RewardMath._getEthStakingRewardDue -->
+<g id="edge9" class="edge" data-name="SilicaEthStaking._getRewardDueOnDay-&gt;RewardMath._getEthStakingRewardDue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M207.95,-463.12C215.95,-459.13 223.22,-453.87 229,-447 280.35,-385.92 210.94,-154.17 257,-89 267.69,-73.87 283.52,-62.85 300.31,-54.83" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.48,-58.14 309.27,-50.95 298.7,-51.72 301.48,-58.14" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange -->
+<g id="node5" class="node" pointer-events="visible" data-name="SilicaEthStaking._getRewardDueInRange">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="122.5" cy="-420" rx="106.5" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-415.8" font-family="Times,serif" font-size="14.00" style="">_getRewardDueInRange</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;SilicaEthStaking.decimals -->
+<g id="edge16" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;SilicaEthStaking.decimals">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.02,-406.12C208.77,-402.65 219.42,-398.34 229,-393 244.09,-384.58 241.75,-374.15 257,-366 277.24,-355.18 301.55,-348.69 323.24,-344.8" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="323.69,-348.28 333.01,-343.23 322.58,-341.36 323.69,-348.28" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;SilicaEthStaking.IOracleEthStaking -->
+<g id="edge12" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;SilicaEthStaking.IOracleEthStaking">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M206.04,-432.33C214.44,-436.06 222.32,-440.85 229,-447 257.01,-472.8 228.52,-502.7 257,-528 266.02,-536.02 276.87,-541.84 288.34,-546.04" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="286.99,-549.28 297.58,-548.94 289.09,-542.6 286.99,-549.28" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;SilicaEthStaking.IOracleRegistry -->
+<g id="edge13" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;SilicaEthStaking.IOracleRegistry">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M215.99,-429.71C243.47,-432.59 273.33,-435.73 300,-438.53" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="299.48,-441.99 309.79,-439.56 300.21,-435.03 299.48,-441.99" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;SilicaEthStaking.address -->
+<g id="edge14" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;SilicaEthStaking.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M198.02,-433.88C208.77,-437.35 219.42,-441.66 229,-447 244.09,-455.42 241.75,-465.85 257,-474 278.81,-485.67 305.35,-492.29 328.25,-496.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="327.49,-499.48 337.89,-497.47 328.51,-492.56 327.49,-499.48" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;SilicaEthStaking.totalSupply -->
+<g id="edge17" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;SilicaEthStaking.totalSupply">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M215.99,-410.29C248.48,-406.88 284.32,-403.12 314.25,-399.98" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="314.52,-403.47 324.1,-398.94 313.79,-396.5 314.52,-403.47" style=""/>
+</g>
+<!-- IOracleEthStaking.getInRange -->
+<g id="node14" class="node" pointer-events="visible" data-name="IOracleEthStaking.getInRange">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="381.7" cy="-119" rx="55.6" ry="18" style=""/>
+<text text-anchor="middle" x="381.7" y="-114.8" font-family="Times,serif" font-size="14.00" style="">getInRange</text>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;IOracleEthStaking.getInRange -->
+<g id="edge15" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;IOracleEthStaking.getInRange">
+
+<path fill="none" stroke="white" stroke-width="2" d="M208.72,-408.41C216.37,-404.52 223.35,-399.49 229,-393 301.56,-309.69 182.96,-228 257,-146 271.02,-130.46 291.73,-122.75 312.21,-119.19" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="312.43,-122.69 321.87,-117.88 311.49,-115.75 312.43,-122.69" style=""/>
+</g>
+<!-- SilicaEthStaking._getRewardDueInRange&#45;&gt;RewardMath._getEthStakingRewardDue -->
+<g id="edge18" class="edge" data-name="SilicaEthStaking._getRewardDueInRange-&gt;RewardMath._getEthStakingRewardDue">
+
+<path fill="none" stroke="white" stroke-width="2" d="M209.11,-408.4C216.64,-404.51 223.48,-399.47 229,-393 273.01,-341.38 217.46,-144.13 257,-89 267.85,-73.87 283.83,-62.84 300.72,-54.81" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="301.94,-58.1 309.74,-50.93 299.17,-51.67 301.94,-58.1" style=""/>
+</g>
+<!-- SilicaEthStaking.getCommodityType -->
+<g id="node6" class="node" pointer-events="visible" data-name="SilicaEthStaking.getCommodityType">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="122.5" cy="-366" rx="88.64" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-361.8" font-family="Times,serif" font-size="14.00" style="">getCommodityType</text>
+</g>
+<!-- SilicaEthStaking.getDecimals -->
+<g id="node7" class="node" pointer-events="visible" data-name="SilicaEthStaking.getDecimals">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="122.5" cy="-312" rx="59.11" ry="18" style=""/>
+<text text-anchor="middle" x="122.5" y="-307.8" font-family="Times,serif" font-size="14.00" style="">getDecimals</text>
+</g>
+<!-- SilicaEthStaking.getDecimals&#45;&gt;SilicaEthStaking.decimals -->
+<g id="edge19" class="edge" data-name="SilicaEthStaking.getDecimals-&gt;SilicaEthStaking.decimals">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M179.94,-317.93C222.69,-322.41 281.17,-328.55 323.98,-333.05" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="323.41,-336.51 333.72,-334.07 324.14,-329.54 323.41,-336.51" style=""/>
+</g>
+<!-- key -->
+<g id="node16" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="187.5,-737 57.5,-737 57.5,-649 187.5,-649 187.5,-737" style=""/>
+<text text-anchor="start" x="107.14" y="-718.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="103.25" y="-698.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="80.7" y="-678.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="67.1" y="-658.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node17" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="408.7,-737 354.7,-737 354.7,-649 408.7,-649 408.7,-737" style=""/>
+<text text-anchor="start" x="371.7" y="-718.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="371.7" y="-698.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="369.7,-673 369.7,-693 394.7,-693 394.7,-673 369.7,-673" style=""/>
+<text text-anchor="start" x="371.7" y="-678.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="371.7,-655 371.7,-671 392.7,-671 392.7,-655 371.7,-655" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge20" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M180.5,-723C259.73,-723 282.67,-723 355.97,-723" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="355.67,-726.5 365.67,-723 355.67,-719.5 355.67,-726.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge21" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M180.5,-703C259.73,-703 282.67,-703 355.97,-703" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="355.67,-706.5 365.67,-703 355.67,-699.5 355.67,-706.5" style=""/>
+</g>
+</g>
+</svg>

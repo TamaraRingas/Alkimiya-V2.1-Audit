@@ -1,0 +1,90 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="393pt" height="292pt" viewBox="0.00 0.00 392.56 292.00">
+<g id="graph0" class="graph" transform="translate(4,288) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="none" points="-4,4 -4,-288 388.56,-288 388.56,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterOracleRegistry">
+
+<path fill="#445773" stroke="#445773" d="M20,-8C20,-8 364.56,-8 364.56,-8 370.56,-8 376.56,-14 376.56,-20 376.56,-20 376.56,-127 376.56,-127 376.56,-133 370.56,-139 364.56,-139 364.56,-139 20,-139 20,-139 14,-139 8,-133 8,-127 8,-127 8,-20 8,-20 8,-14 14,-8 20,-8" style=""/>
+<text text-anchor="middle" x="192.28" y="-122.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OracleRegistry</text>
+</g>
+<g id="clust2" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="23.21,-147 23.21,-276 325.49,-276 325.49,-147 23.21,-147" style=""/>
+<text text-anchor="middle" x="174.35" y="-259.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- OracleRegistry.getOracleAddress -->
+<g id="node1" class="node" pointer-events="visible" data-name="OracleRegistry.getOracleAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="96.21" cy="-88" rx="80.43" ry="18" style=""/>
+<text text-anchor="middle" x="96.21" y="-83.8" font-family="Times,serif" font-size="14.00" style="">getOracleAddress</text>
+</g>
+<!-- OracleRegistry.setOracleAddress -->
+<g id="node2" class="node" pointer-events="visible" data-name="OracleRegistry.setOracleAddress">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="96.21" cy="-34" rx="79.29" ry="18" style=""/>
+<text text-anchor="middle" x="96.21" y="-29.8" font-family="Times,serif" font-size="14.00" style="">setOracleAddress</text>
+</g>
+<!-- OracleRegistry.address -->
+<g id="node3" class="node" pointer-events="visible" data-name="OracleRegistry.address">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="290.49" cy="-34" rx="40" ry="18" style=""/>
+<text text-anchor="middle" x="290.49" y="-29.8" font-family="Times,serif" font-size="14.00" style="">address</text>
+</g>
+<!-- OracleRegistry.setOracleAddress&#45;&gt;OracleRegistry.address -->
+<g id="edge1" class="edge" data-name="OracleRegistry.setOracleAddress-&gt;OracleRegistry.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.11,-27.4C194.16,-27.09 217.79,-27.27 238.02,-27.94" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="237.62,-31.43 247.76,-28.34 237.91,-24.44 237.62,-31.43" style=""/>
+</g>
+<!-- OracleRegistry.setOracleAddress&#45;&gt;OracleRegistry.address -->
+<g id="edge2" class="edge" data-name="OracleRegistry.setOracleAddress-&gt;OracleRegistry.address">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M172.11,-40.6C194.16,-40.91 217.79,-40.73 238.02,-40.06" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="237.91,-43.56 247.76,-39.66 237.62,-36.57 237.91,-43.56" style=""/>
+</g>
+<!-- OracleRegistry.OracleRegistered -->
+<g id="node4" class="node" pointer-events="visible" data-name="OracleRegistry.OracleRegistered">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="290.49" cy="-88" rx="78.13" ry="18" style=""/>
+<text text-anchor="middle" x="290.49" y="-83.8" font-family="Times,serif" font-size="14.00" style="">OracleRegistered</text>
+</g>
+<!-- OracleRegistry.setOracleAddress&#45;&gt;OracleRegistry.OracleRegistered -->
+<g id="edge3" class="edge" data-name="OracleRegistry.setOracleAddress-&gt;OracleRegistry.OracleRegistered">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M149.25,-48.61C172.75,-55.21 200.74,-63.07 225.51,-70.03" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="224.26,-73.32 234.84,-72.65 226.16,-66.58 224.26,-73.32" style=""/>
+</g>
+<!-- key -->
+<g id="node5" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="161.21,-243 31.21,-243 31.21,-155 161.21,-155 161.21,-243" style=""/>
+<text text-anchor="start" x="80.85" y="-224.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="76.96" y="-204.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="54.42" y="-184.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="40.82" y="-164.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node6" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="none" stroke-width="3" points="317.49,-243 263.49,-243 263.49,-155 317.49,-155 317.49,-243" style=""/>
+<text text-anchor="start" x="280.49" y="-224.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="280.49" y="-204.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="none" points="278.49,-179 278.49,-199 303.49,-199 303.49,-179 278.49,-179" style=""/>
+<text text-anchor="start" x="280.49" y="-184.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="280.49,-161 280.49,-177 301.49,-177 301.49,-161 280.49,-161" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge4" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M154.21,-229C204.4,-229 220.11,-229 264.51,-229" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="264.47,-232.5 274.47,-229 264.47,-225.5 264.47,-232.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge5" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M154.21,-209C204.4,-209 220.11,-209 264.51,-209" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="264.47,-212.5 274.47,-209 264.47,-205.5 264.47,-212.5" style=""/>
+</g>
+</g>
+</svg>
